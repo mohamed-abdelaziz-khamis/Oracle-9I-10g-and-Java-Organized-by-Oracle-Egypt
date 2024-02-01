@@ -1,0 +1,32 @@
+public class MyCalss
+{
+	public File createFile(String filename) throws FileNotFoundException,IOException
+	{
+		...
+		if ( (filename==null) || (filename.equals("")) )
+			throw new FileNotFoundException("Invalid file name");
+		File f = new File(filename);
+		....
+	}
+}
+
+************
+
+public class AnyClass
+{
+	AnyClass()
+	{
+		MyClass mc = new MyClass();
+		try
+		{
+			File f = mc.createFile(str);
+		}
+		catch(FileNotFoundException e)
+		{
+			System.out.println(e.getMessage());
+			e.printStackTrace();
+		}
+		catch(IOException e)
+		{}
+	}
+}

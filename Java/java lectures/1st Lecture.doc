@@ -1,0 +1,727 @@
+{\rtf1\adeflang1025\ansi\ansicpg1256\uc1\adeff0\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f42\froman\fcharset238\fprq2 Times New Roman CE;}
+{\f43\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f45\froman\fcharset161\fprq2 Times New Roman Greek;}{\f46\froman\fcharset162\fprq2 Times New Roman Tur;}{\f47\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f48\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f49\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f50\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\rtlpar \qr \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}
+{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch \af0\afs20 \ltrch \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}}{\*\latentstyles\lsdstimax156\lsdlockeddef0}
+{\*\rsidtbl \rsid3181\rsid10944\rsid228756\rsid333200\rsid342931\rsid676863\rsid795048\rsid1051027\rsid1145891\rsid1317397\rsid1379264\rsid1538638\rsid1641803\rsid1650059\rsid1729081\rsid1916737\rsid1967585\rsid1973298\rsid2062255\rsid2170004\rsid2249271
+\rsid2308353\rsid2386566\rsid2521112\rsid2840578\rsid2884922\rsid3214348\rsid3504849\rsid3563560\rsid3960121\rsid4063619\rsid4274036\rsid4416037\rsid4423241\rsid4533928\rsid4587708\rsid4596989\rsid4599947\rsid4613446\rsid4614887\rsid4854450\rsid5123411
+\rsid5124360\rsid5247465\rsid5385197\rsid5401114\rsid5461790\rsid5585722\rsid5836923\rsid5856890\rsid5968420\rsid6056923\rsid6102377\rsid6113862\rsid6190100\rsid6255549\rsid6322150\rsid6422941\rsid6435026\rsid6440777\rsid6622499\rsid6633194\rsid6751809
+\rsid6781688\rsid6892352\rsid7108202\rsid7173866\rsid7343747\rsid7616835\rsid7680499\rsid7682164\rsid8069512\rsid8087753\rsid8093395\rsid8265756\rsid8286498\rsid8339517\rsid8390041\rsid8474465\rsid8995347\rsid9055330\rsid9115427\rsid9118645\rsid9187717
+\rsid9316965\rsid9393644\rsid9454258\rsid9720838\rsid9726256\rsid9727484\rsid9786566\rsid10096838\rsid10230420\rsid10233714\rsid10246237\rsid10246436\rsid10380080\rsid10442295\rsid10497516\rsid10514177\rsid11363769\rsid11422306\rsid11492683\rsid11672336
+\rsid11687790\rsid11691748\rsid11745961\rsid11760648\rsid11810493\rsid12003210\rsid12015951\rsid12156659\rsid12220044\rsid12337825\rsid12462187\rsid12521431\rsid12719504\rsid12806342\rsid12919417\rsid12940053\rsid12995733\rsid12995899\rsid13184849
+\rsid13373253\rsid13516778\rsid13598396\rsid13703094\rsid13713966\rsid13788741\rsid13836163\rsid13851574\rsid13912240\rsid13975977\rsid13976254\rsid14101576\rsid14104891\rsid14431619\rsid14442816\rsid14616196\rsid14698324\rsid14841005\rsid14885332
+\rsid14900997\rsid15033844\rsid15214592\rsid15419745\rsid15605033\rsid15879848\rsid15991241\rsid16087936\rsid16282314\rsid16347628\rsid16384235\rsid16405728\rsid16457966\rsid16595833\rsid16665763\rsid16673283}{\*\generator Microsoft Word 11.0.5604;}{\info
+{\author 3M}{\operator 3M}{\creatim\yr2004\mo9\dy2\hr21\min4}{\revtim\yr2004\mo9\dy7\hr20\min52}{\version151}{\edmins372}{\nofpages9}{\nofwords1565}{\nofchars8924}{\*\company Home}{\nofcharsws10469}{\vern24689}}\ltrsect 
+\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\nolnhtadjtbl\rsidroot16457966 \fet0\ltrpar 
+\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4
+\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7
+\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0 \ltrch \insrsid3504849 Linear programming: No go to, No loops 
+\par }{\rtlch \af0 \ltrch \insrsid11745961 Structure programming: go to, loops as C, Pascal, Basic}{\rtlch \af0 \ltrch \insrsid9727484  (the program is one structure)}{\rtlch \af0 \ltrch \insrsid11745961 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid11745961 {\rtlch \af0 \ltrch \insrsid9727484 Object oriented programming: interface + programming (the program is divided into models: interface + processing)
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid9727484 {\rtlch \af0 \ltrch \insrsid9727484 models:}{\rtlch \af0 \ltrch \insrsid13703094  model for customer}{\rtlch \af0 \ltrch \insrsid9727484  }{\rtlch \af0 \ltrch \insrsid13703094 
+   \}
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid13703094 {\rtlch \af0 \ltrch \insrsid13703094               model for employee   \}}{\rtlch \af0 \ltrch \insrsid13703094 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt
+\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid13703094  are dealing }{\rtlch \af0 \ltrch \insrsid8286498 through}{\rtlch \af0 \ltrch \insrsid13703094  functions
+\par              }{\rtlch \af0 \ltrch \insrsid9727484  model for product}{\rtlch \af0 \ltrch \insrsid13703094       \}}{\rtlch \af0 \ltrch \insrsid9727484 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid4599947 {\rtlch \af0 \ltrch \insrsid6056923 High level programming language}{\rtlch \af0 \ltrch \insrsid6056923 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}
+}{\rtlch \af0 \ltrch \insrsid6056923  e.g.:}{\rtlch \af0 \ltrch \insrsid4599947  }{\rtlch \af0 \ltrch \insrsid6056923 ja}{\rtlch \af0 \ltrch \insrsid4599947 v}{\rtlch \af0 \ltrch \insrsid6056923 a}{\rtlch \af0 \ltrch \insrsid4599947 
+ (we can't control the H/W by using java code) 
+\par }{\rtlch \af0 \ltrch \insrsid10497516 While structure programming languages as C & Pascal }{\rtlch \af0 \ltrch \insrsid10497516 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid10497516  we can control 
+the H/W
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10497516 {\rtlch \af0 \ltrch \insrsid9786566 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid9786566 {\rtlch \af0 \ltrch \insrsid10497516    }{\rtlch \af0 \ltrch \insrsid4599947  }{\rtlch \af0 \ltrch \insrsid11745961   }{\rtlch \af0 \ltrch \insrsid3504849 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid6056923 {\rtlch \af0 \ltrch \insrsid9786566                        
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid9786566 {\rtlch \af0 \ltrch \insrsid9786566 
+\par 
+\par                  }{\rtlch \af0 \ltrch \insrsid12919417 1) encapsulation}{\rtlch \af0 \ltrch \insrsid9786566                  2)}{\rtlch \af0 \ltrch \insrsid12919417 inheritance}{\rtlch \af0 \ltrch \insrsid6056923 
+\par }{\rtlch \af0 \ltrch \insrsid9786566                             }{\field\fldedit\fldlock{\*\fldinst {\rtlch \af0 \ltrch \insrsid9786566  SHAPE  \\* MERGEFORMAT }}{\fldrslt {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shpgrp{\*\shpinst\shpleft0\shptop0\shpright2640\shpbottom1320\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz0\shplockanchor\shplid1026
+{\sp{\sn groupLeft}{\sv 5514}}{\sp{\sn groupTop}{\sv 1281}}{\sp{\sn groupRight}{\sv 7714}}{\sp{\sn groupBottom}{\sv 2386}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockAspectRatio}{\sv 1}}
+{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn lidRegroup}{\sv 0}}{\sp{\sn posh}{\sv 0}}{\sp{\sn posrelh}{\sv 3}}{\sp{\sn posv}{\sv 0}}{\sp{\sn posrelv}{\sv 3}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fAllowOverlap}{\sv 1}}{\sp{\sn fBehindDocument}{\sv 0}}
+{\sp{\sn dgmt}{\sv 0}}{\sp{\sn fPseudoInline}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLockPosition}{\sv 1}}{\sp{\sn fLockRotation}{\sv 1}}{\shp{\*\shpinst\shplid1027
+{\sp{\sn relLeft}{\sv 5514}}{\sp{\sn relTop}{\sv 1281}}{\sp{\sn relRight}{\sv 7714}}{\sp{\sn relBottom}{\sv 2386}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fLockText}{\sv 1}}{\sp{\sn cxk}{\sv 0}}
+{\sp{\sn fShadowOK}{\sv 1}}{\sp{\sn f3DOK}{\sv 1}}{\sp{\sn fLineOK}{\sv 1}}{\sp{\sn fFillOK}{\sv 1}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fNoFillHitTest}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fPreferRelativeResize}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}}{\shp{\*\shpinst\shplid1028{\sp{\sn relLeft}{\sv 5514}}{\sp{\sn relTop}{\sv 1381}}{\sp{\sn relRight}{\sv 7714}}{\sp{\sn relBottom}{\sv 2386}}{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 5}}{\sp{\sn lTxid}{\sv 65536}}{\sp{\sn hspNext}{\sv 1028}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \rtlpar \pard\plain \rtlpar
+\qr \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12919417 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0 \ltrch \insrsid12919417 OOP     
+\par }}}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8192\dpgroup\dpcount3\dpx0\dpy0\dpxsize2640\dpysize1320\dppolygon\dppolycount4\dpptx0\dppty0\dpptx0\dppty1320\dpptx2640\dppty1320\dpptx2640\dppty0\dpx0\dpy0\dpxsize2640\dpysize1320
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat0\dplinehollow\dptxbx\dptxlrtb{\dptxbxtext\rtlpar \pard\plain \rtlpar\qr \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12919417 
+\rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0 \ltrch \insrsid12919417 OOP     
+\par }}\dpx0\dpy119\dpxsize2640\dpysize1201\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0\dpendgroup\dpx0\dpy0\dpxsize0\dpysize0}}}}{\rtlch \af0 \ltrch \insrsid3214348 
+{\pict{\*\picprop\defshp\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 1}}{\sp{\sn fLockPosition}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fPseudoInline}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLockPosition}{\sv 1}}{\sp{\sn fLockRotation}{\sv 1}}}\picscalex36\picscaley30\piccropl0\piccropr0\piccropt-4308\piccropb4308
+\picw12700\pich7620\picwgoal7200\pichgoal4320\wmetafile8\bliptag386615297\blipupi300{\*\blipuid 170b48015788aa673712d1297b2457d4}
+0100090000038000000002001c00000000000400000003010800050000000b0200000000050000000c020e011e02040000002e0118001c000000fb0210000700
+00000000bc02000000b20102022253797374656d00011e020000f450a940283e110004ee8339885323000c020000040000002d01000004000000020101001c00
+0000fb02ceff0000000000009001000000000740001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+0000090200000002040000002e011a000d000000320a2d00070201000400000000001d020d0120001600040000002e011800040000002d010000030000000000}}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
+\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\rtlch \af0 \ltrch \insrsid9786566  }{\rtlch \af0 \ltrch \insrsid3504849 
+\par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid9786566 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0 \ltrch \insrsid9786566                                      3) }{
+\rtlch \af0 \ltrch \insrsid12919417 Polymorphism}{\rtlch \af0 \ltrch \insrsid9786566 
+\par                                          (overloading) 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid12919417 {\rtlch \af0 \ltrch \insrsid12919417 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10246237 {\rtlch \af0 \ltrch \insrsid10246237                                                class
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\tqc\tx4320\faauto\rin0\lin0\itap0\pararsid10246237 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft2301\shptop48\shpright3741\shpbottom1968\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz2\shplockanchor\shplid1029{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8194\dprect\dpx2301\dpy48\dpxsize1440\dpysize1920
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid10246237        \tab    }{\rtlch \af0 \ltrch \insrsid10246237 {\field{\*\fldinst SYMB
+OL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid10246237 Properties
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10246237 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft2301\shptop252\shpright3741\shpbottom252\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz3\shplockanchor\shplid1030{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8195\dpline\dpptx0\dppty0\dpptx1440\dppty0
+\dpx2301\dpy252\dpxsize1440\dpysize0\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid10246237                                        }{\field\fldedit\fldlock{\*\fldinst {\rtlch \af0 \ltrch \insrsid10246237  SHAPE  \\
+* MERGEFORMAT }}{\fldrslt {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shpgrp{\*\shpinst\shpleft0\shptop0\shpright1440\shpbottom1560\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz1\shplockanchor\shplid1031
+{\sp{\sn groupLeft}{\sv 4150}}{\sp{\sn groupTop}{\sv 8582}}{\sp{\sn groupRight}{\sv 5590}}{\sp{\sn groupBottom}{\sv 10142}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 0}}{\sp{\sn fLockAspectRatio}{\sv 1}}
+{\sp{\sn fLockPosition}{\sv 0}}{\sp{\sn posh}{\sv 0}}{\sp{\sn posrelh}{\sv 3}}{\sp{\sn posv}{\sv 0}}{\sp{\sn posrelv}{\sv 3}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fAllowOverlap}{\sv 1}}{\sp{\sn fBehindDocument}{\sv 0}}{\sp{\sn dgmt}{\sv 0}}
+{\sp{\sn fPseudoInline}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLockPosition}{\sv 1}}{\sp{\sn fLockRotation}{\sv 1}}{\shp{\*\shpinst\shplid1032{\sp{\sn relLeft}{\sv 4150}}
+{\sp{\sn relTop}{\sv 8582}}{\sp{\sn relRight}{\sv 5590}}{\sp{\sn relBottom}{\sv 10142}}{\sp{\sn fRelFlipH}{\sv 0}}{\sp{\sn fRelFlipV}{\sv 0}}{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fLockText}{\sv 1}}{\sp{\sn cxk}{\sv 0}}{\sp{\sn fShadowOK}{\sv 1}}
+{\sp{\sn f3DOK}{\sv 1}}{\sp{\sn fLineOK}{\sv 1}}{\sp{\sn fFillOK}{\sv 1}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fNoFillHitTest}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fPreferRelativeResize}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8193\dpgroup\dpcount2\dpx0\dpy0\dpxsize1440\dpysize1560\dppolygon\dppolycount4\dpptx0\dppty0\dpptx0\dppty1560\dpptx1440\dppty1560\dpptx1440\dppty0\dpx0\dpy0\dpxsize1440\dpysize1560
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat0\dplinehollow\dpendgroup\dpx0\dpy0\dpxsize0\dpysize0}}}}{\rtlch \af0 \ltrch \insrsid3214348 
+{\pict{\*\picprop\defshp\shplid1026{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLockRotation}{\sv 1}}{\sp{\sn fLockPosition}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fPseudoInline}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLockPosition}{\sv 1}}{\sp{\sn fLockRotation}{\sv 1}}}\picscalex20\picscaley36\piccropl0\piccropr0\piccropt-4308\piccropb4308
+\picw12700\pich7620\picwgoal7200\pichgoal4320\wmetafile8\bliptag-1757448469\blipupi300{\*\blipuid 973f76eb992b7efb46a4a7c60daa41a6}
+0100090000038000000002001c00000000000400000003010800050000000b0200000000050000000c0246012d01040000002e0118001c000000fb0210000700
+00000000bc02000000b20102022253797374656d00012d010000f450a940283e110004ee8339885323000c020000040000002d01000004000000020101001c00
+0000fb02ceff0000000000009001000000000740001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d0101000500
+0000090200000002040000002e011a000d000000320a2d00160101000400000000002c01450120001600040000002e011800040000002d010000030000000000}}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
+\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\rtlch \af0 \ltrch \insrsid10246237 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid10246237 methods
+\par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10246237 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0 \ltrch \insrsid10246237 
+\par }{\rtlch \af0 \ltrch \insrsid10380080 e}{\rtlch \af0 \ltrch \insrsid12220044 ncapsulation}{\rtlch \af0 \ltrch \insrsid10246237 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid12220044 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft2901\shptop1566\shpright3741\shpbottom2286\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz7\shplockanchor\shplid1033{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8199
+\dpline\dpptx0\dppty0\dpptx840\dppty720\dpastartsol\dpastartw2\dpastartl2\dpx2901\dpy1566\dpxsize840\dpysize720\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft2781\shptop126\shpright3501\shpbottom726\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz6\shplockanchor\shplid1034{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 1}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8198
+\dpline\dpptx720\dppty0\dpptx0\dppty600\dpaendsol\dpaendw2\dpaendl2\dpx2781\dpy126\dpxsize720\dpysize600\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft960\shptop302\shpright3381\shpbottom2222\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz4\shplockanchor\shplid1035{\sp{\sn shapeType}{\sv 3}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 131072}}{\sp{\sn hspNext}{\sv 1035}}{\sp{\sn fillType}{\sv 1}}{\sp{\sn fillColor}{\sv 0}}{\sp{\sn fillBlip}{\sv {\pict\picscalex-1\picscaley-1\piccropl0\piccropr0\piccropt0\piccropb0
+\picw212\pich212\picwgoal120\pichgoal120\wmetafile8\bliptag206\blipupi96{\*\blipuid a639435f6979029d75eb13d11555ffee}0100090000035a00000000003500000000000400000003010800050000000b0200000000050000000c0209000900030000001e00040000000701040035000000
+410b2000cc00080008000000000008000800000000002800000008000000080000000100010000000000000000000000000000000000000000000000000000000000ffffff008800000044000000220100001101000088000100440001002200000111000001040000002701ffff030000000000}
+}}{\sp{\sn fRecolorFillAsPicture}{\sv 0}}{\sp{\sn fUseShapeAnchor}{\sv 0}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fillShape}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fBehindDocument}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \rtlpar 
+\pard\plain \rtlpar\qr \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10380080 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0\alang3073 \ltrch \insrsid10380080 
+Methods     
+\par }}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8196\dptxbx\dptxlrtb{\dptxbxtext\rtlpar \pard\plain \rtlpar\qr \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10380080 \rtlch \af0\afs24\alang1025 \ltrch 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0\alang3073 \ltrch \insrsid10380080 Methods     
+\par }}\dpx960\dpy302\dpxsize2421\dpysize1920\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr0\dpfillbgcg0\dpfillbgcb0\dpfillpat2\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft1221\shptop966\shpright3141\shpbottom1926\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz5\shplockanchor\shplid1036{\sp{\sn shapeType}{\sv 3}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 196608}}{\sp{\sn hspNext}{\sv 1036}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \rtlpar \pard\plain \rtlpar\qr \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch 
+\af0\afs24\alang1025 \ltrch \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0 \ltrch \insrsid10380080 Properties
+\par 
+\par }}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8197\dptxbx\dptxlrtb{\dptxbxtext\rtlpar \pard\plain \rtlpar\qr \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch \af0\afs24\alang1025 \ltrch 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0 \ltrch \insrsid10380080 Properties
+\par 
+\par }}\dpx1221\dpy966\dpxsize1920\dpysize960\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid14885332                       
+                                     setters & getters
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14885332 {\rtlch \af0 \ltrch \insrsid14885332\charrsid14885332 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch \af0 \ltrch \insrsid14885332                                                                Are private
+\par                                                    We couldn't reach the properties else through the methods
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9055330 {\rtlch \af0 \ltrch \insrsid9055330 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14885332 {\rtlch \af0 \ltrch \insrsid14885332                                                               }{\rtlch \af0 \ltrch \insrsid9055330 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9055330 {\rtlch \af0 \ltrch \insrsid9055330 
+\par Human
+\par 
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft21\shptop196\shpright1701\shpbottom196\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz9\shplockanchor\shplid1037
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8201\dpline\dpptx0\dppty0\dpptx1680\dppty0\dpx21\dpy196\dpxsize1680\dpysize0\dplinew15\dplinecor0\dplinecog0\dplinecob0}
+}}}{\rtlch \af0 \ltrch \insrsid9055330 
+\par 
+\par 
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft0\shptop-1080\shpright1680\shpbottom360\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz8\shplockanchor\shplid1038
+{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lTxid}{\sv 262144}}{\sp{\sn hspNext}{\sv 1038}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \rtlpar \pard\plain \rtlpar
+\qr \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0 \ltrch \insrsid9055330 Properties   }{\ltrch \rtlch 
+\f0\fs24\lang3073\insrsid9055330 
+\par }{\rtlch \af0\alang3073 \ltrch \insrsid9055330 
+\par }{\rtlch \af0 \ltrch \insrsid9055330 Methods     }{\ltrch \rtlch \f0\fs24\lang3073\insrsid9055330 
+\par }}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8200\dptxbx\dptxlrtb{\dptxbxtext\rtlpar \pard\plain \rtlpar\qr \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch \af0\afs24\alang1025 \ltrch 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0 \ltrch \insrsid9055330 Properties   }{\ltrch \rtlch \f0\fs24\lang3073\insrsid9055330 
+\par }{\rtlch \af0\alang3073 \ltrch \insrsid9055330 
+\par }{\rtlch \af0 \ltrch \insrsid9055330 Methods     }{\ltrch \rtlch \f0\fs24\lang3073\insrsid9055330 
+\par }}\dpx0\dpy-1080\dpxsize1680\dpysize1440\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid14885332   }{\rtlch \af0 \ltrch 
+\insrsid5123411 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5123411 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft501\shptop52\shpright981\shpbottom772\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz11\shplockanchor\shplid1039{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 1}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8203
+\dpline\dpptx480\dppty0\dpptx0\dppty720\dpaendsol\dpaendw2\dpaendl2\dpx501\dpy52\dpxsize480\dpysize720\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid5123411 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1050\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5123411 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft-219\shptop532\shpright1581\shpbottom1936\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz10\shplockanchor\shplid1040{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 327680}}{\sp{\sn hspNext}{\sv 1040}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \rtlpar \pard\plain \rtlpar\qr \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5123411 \rtlch 
+\af0\afs24\alang1025 \ltrch \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0 \ltrch \insrsid5123411 new properties
+\par }{\ltrch \rtlch \f0\fs24\lang3073\insrsid5123411 
+\par }{\rtlch \af0 \ltrch \insrsid5123411 new methods  
+\par }{\rtlch \af0\alang3073 \ltrch \insrsid5123411 
+\par 
+\par 
+\par }}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8202\dptxbx\dptxlrtb{\dptxbxtext\rtlpar \pard\plain \rtlpar\qr \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5123411 \rtlch \af0\afs24\alang1025 \ltrch 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0 \ltrch \insrsid5123411 new properties
+\par }{\ltrch \rtlch \f0\fs24\lang3073\insrsid5123411 
+\par }{\rtlch \af0 \ltrch \insrsid5123411 new methods  
+\par }{\rtlch \af0\alang3073 \ltrch \insrsid5123411 
+\par 
+\par 
+\par }}\dpx-219\dpy532\dpxsize1800\dpysize1404\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid14431619               }{\rtlch \af0 \ltrch 
+\insrsid5123411 inherit all the properties & the methods in Human
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5123411 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft2400\shptop256\shpright4080\shpbottom1744\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz13\shplockanchor\shplid1041{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8205\dprect\dpx2400\dpy256\dpxsize1680\dpysize1488
+\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid14431619 Male                                  Female}{\rtlch \af0 \ltrch 
+\insrsid5123411\charrsid5123411 
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch \af0 \ltrch \insrsid5123411 
+\par 
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft1560\shptop-2364\shpright2520\shpbottom-1764\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz14\shplockanchor\shplid1042
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 1}}{\sp{\sn fFlipV}{\sv 1}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8206\dpline\dpptx0\dppty0\dpptx960\dppty600\dpaendsol\dpaendw2\dpaendl2\dpx1560\dpy-2364\dpxsize960\dpysize600
+\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}{\shp{\*\shpinst\shpleft-240\shptop-1284\shpright1560\shpbottom-1284\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz12\shplockanchor\shplid1043
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8204\dpline\dpptx0\dppty0\dpptx1800\dppty0\dpx-240\dpy-1284\dpxsize1800\dpysize0
+\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \ul\insrsid5123411\charrsid10096838 Overloading:}{\rtlch \af0 \ltrch \ul\insrsid12220044\charrsid10096838 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5585722 {\rtlch \af0 \ltrch \insrsid11492683 Math }{\rtlch \af0 \ltrch \insrsid5585722 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11492683 {\rtlch \af0 \ltrch \insrsid11492683   \{
+\par      add (2 int) or add (2 float) or add (int, float)}{\rtlch \af0 \ltrch \insrsid11492683 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid11492683  multifunctionailty within the same class
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx4815\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1729081 {\rtlch \af0 \ltrch \insrsid11492683      int add (int, int) \{ \}}{\rtlch \af0 \ltrch \insrsid1729081 \tab different in the i/p parameters.}{
+\rtlch \af0 \ltrch \insrsid11492683 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11492683 {\rtlch \af0 \ltrch \insrsid11492683      }{\rtlch \af0 \ltrch \insrsid1729081 float}{\rtlch \af0 \ltrch \insrsid11492683  add (float, float) \{ \}
+
+\par      }{\rtlch \af0 \ltrch \insrsid1729081 float}{\rtlch \af0 \ltrch \insrsid11492683  add (int, float) \{ \}
+\par        .
+\par        .
+\par        .
+\par  \}
+\par 
+\par }{\rtlch \af0 \ltrch \ul\insrsid1051027\charrsid10096838 Over riding:}{\rtlch \af0 \ltrch \ul\insrsid11492683\charrsid10096838 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1051027 {\rtlch \af0 \ltrch \insrsid1051027 Human
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft-219\shptop1\shpright1680\shpbottom1681\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz15\shplockanchor\shplid1044
+{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn lTxid}{\sv 393216}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \rtlpar \pard\plain \rtlpar
+\qr \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0 \ltrch \insrsid1051027 Properties}{\rtlch \af0 \ltrch \insrsid16673283       
+}{\ltrch \rtlch \f0\fs24\lang3073\insrsid1051027 
+\par }{\rtlch \af0 \ltrch \insrsid1051027 
+\par void eats(int)\{\}    }{\ltrch \rtlch \f0\fs24\lang3073\insrsid1051027 
+\par }}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8207\dptxbx\dptxlrtb{\dptxbxtext\rtlpar \pard\plain \rtlpar\qr \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch \af0\afs24\alang1025 \ltrch 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0 \ltrch \insrsid1051027 Properties}{\rtlch \af0 \ltrch \insrsid16673283       }{\ltrch \rtlch \f0\fs24\lang3073\insrsid1051027 
+\par }{\rtlch \af0 \ltrch \insrsid1051027 
+\par void eats(int)\{\}    }{\ltrch \rtlch \f0\fs24\lang3073\insrsid1051027 
+\par }}\dpx-219\dpy1\dpxsize1899\dpysize1680\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid1051027 
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft-219\shptop149\shpright1701\shpbottom149\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz16\shplockanchor\shplid1045
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8208\dpline\dpptx0\dppty0\dpptx1920\dppty0\dpx-219\dpy149\dpxsize1920\dpysize0
+\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid1051027 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11492683 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft1701\shptop113\shpright2781\shpbottom1553\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz20\shplockanchor\shplid1046{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8212
+\dpline\dpptx0\dppty0\dpptx1080\dppty1440\dpx1701\dpy113\dpxsize1080\dpysize1440\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid11492683               
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft-219\shptop77\shpright1701\shpbottom77\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz17\shplockanchor\shplid1047
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8209\dpline\dpptx0\dppty0\dpptx1920\dppty0\dpx-219\dpy77\dpxsize1920\dpysize0\dplinew15\dplinecor0\dplinecog0\dplinecob0}
+}}}{\rtlch \af0 \ltrch \insrsid11492683                      }{\rtlch \af0 \ltrch \insrsid1051027 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1051027 {\rtlch \af0 \ltrch \insrsid1051027\charrsid1051027 
+\par 
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft501\shptop89\shpright861\shpbottom929\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz22\shplockanchor\shplid1048
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 1}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8214\dpline\dpptx360\dppty0\dpptx0\dppty840\dpaendsol\dpaendw2\dpaendl2\dpx501\dpy89\dpxsize360\dpysize840\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+}{\rtlch \af0 \ltrch \insrsid1051027 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx900\tx2940\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1051027 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft-219\shptop1133\shpright1701\shpbottom1133\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz19\shplockanchor\shplid1049{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8211\dpline\dpptx0\dppty0\dpptx1920\dppty0
+\dpx-219\dpy1133\dpxsize1920\dpysize0\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft-219\shptop653\shpright1701\shpbottom2453\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz18\shplockanchor\shplid1050{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn lTxid}{\sv 458752}}{\sp{\sn hspNext}{\sv 1050}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\shptxt \rtlpar \pard\plain \rtlpar\qr \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch 
+\af0\afs24\alang1025 \ltrch \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0\alang3073 \ltrch \insrsid8069512 
+\par }{\rtlch \af0 \ltrch \insrsid8069512 
+\par void eats(int)\{\}}{\ltrch \rtlch \f0\fs24\lang3073\insrsid8069512 
+\par }}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8210\dptxbx\dptxlrtb{\dptxbxtext\rtlpar \pard\plain \rtlpar\qr \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch \af0\afs24\alang1025 \ltrch 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0\alang3073 \ltrch \insrsid8069512 
+\par }{\rtlch \af0 \ltrch \insrsid8069512 
+\par void eats(int)\{\}}{\ltrch \rtlch \f0\fs24\lang3073\insrsid8069512 
+\par }}\dpx-219\dpy653\dpxsize1920\dpysize1800\dpfillfgcr255\dpfillfgcg255\dpfillfgcb255\dpfillbgcr255\dpfillbgcg255\dpfillbgcb255\dpfillpat1\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft1701\shptop173\shpright2781\shpbottom1373\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz21\shplockanchor\shplid1051{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 1}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8213
+\dpline\dpptx1080\dppty0\dpptx0\dppty1200\dpastartsol\dpastartw2\dpastartl2\dpx1701\dpy173\dpxsize1080\dpysize1200\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid1051027 \tab Inheritance\tab the same signature
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1051027 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft1461\shptop1217\shpright2661\shpbottom1217\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz23\shplockanchor\shplid1052{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8215
+\dpline\dpptx0\dppty0\dpptx1200\dppty0\dpastartsol\dpastartw2\dpastartl2\dpx1461\dpy1217\dpxsize1200\dpysize0\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid1051027 Male}{\rtlch \af0 \ltrch \insrsid5461790 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5461790 {\rtlch \af0 \ltrch \insrsid5461790\charrsid5461790 
+\par }{\rtlch \af0 \ltrch \insrsid5461790 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5461790 {\rtlch \af0 \ltrch \insrsid5461790 \tab Another implementation}{\rtlch \af0 \ltrch \insrsid11492683 
+\par }{\rtlch \af0 \ltrch \insrsid5461790                               
+\par                               child class }{\rtlch \af0 \ltrch \ul\insrsid5461790\charrsid5461790 is kind }{\rtlch \af0 \ltrch \ul\insrsid6892352\charrsid5461790 of}{\rtlch \af0 \ltrch \insrsid6892352  parent}{\rtlch \af0 \ltrch \insrsid5461790  class
+
+\par                                                        |__ inherits from   }{\rtlch \af0 \ltrch \insrsid3504849 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3504849 {\rtlch \af0 \ltrch \insrsid3504849 
+\par }{\rtlch \af0 \ltrch \insrsid5461790  }{\rtlch \af0 \ltrch \insrsid3960121 UML: Unified Modeling Language}{\rtlch \af0 \ltrch \insrsid4854450 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4854450 {\rtlch \af0 \ltrch \insrsid4854450  Only for Object Oriented Programming}{\rtlch \af0 \ltrch \insrsid13976254 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13976254 {\rtlch \af0 \ltrch \insrsid13976254 
+\par Java "sun" to control house electronics 
+\par 
+\par The disadvantages of the C++ with respect to the Object Oriented:
+\par *}{\rtlch \af0 \ltrch \insrsid676863  }{\rtlch \af0 \ltrch \insrsid13976254 pointers }{\rtlch \af0 \ltrch \insrsid13976254 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid13976254 
+ we can enter inside anything and change it.}{\rtlch \af0 \ltrch \insrsid5461790 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid676863 {\rtlch \af0 \ltrch \insrsid676863 * free memory allocation }{\rtlch \af0 \ltrch \insrsid676863 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings"
+ \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid676863 we have to free the memory.
+\par * multiple inheritance
+\par 
+\par }{\rtlch \af0 \ltrch \insrsid8093395 Programming language}{\rtlch \af0 \ltrch \insrsid3563560 : Oak }{\rtlch \af0 \ltrch \insrsid8093395 "only sun"}{\rtlch \af0 \ltrch \insrsid3563560 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3563560 {\rtlch \af0 \ltrch \insrsid3563560 Hot Java browser "1995"
+\par Web: text}{\rtlch \af0 \ltrch \insrsid3563560 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid3563560 graphics "1998"}{\rtlch \af0 \ltrch \insrsid12003210 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12003210 {\rtlch \af0 \ltrch \insrsid12003210 Applet: web component}{\rtlch \af0 \ltrch \insrsid12995733 ,}{\rtlch \af0 \ltrch \insrsid12003210 
+ put in the HTML.}{\rtlch \af0 \ltrch \insrsid676863 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12995733 {\rtlch \af0 \ltrch \insrsid12995733 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2840578 {\rtlch \af0 \ltrch \insrsid2840578 1)}{\rtlch \af0 \ltrch \insrsid4587708  Platform independent:}{\rtlch \af0 \ltrch \insrsid2840578 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4587708 {\rtlch \af0 \ltrch \insrsid4587708 Java: compiler, interpreter
+\par }{\rtlch \af0 \ltrch \insrsid5836923 c}{\rtlch \af0 \ltrch \insrsid4587708 ompiler: Java file }{\rtlch \af0 \ltrch \insrsid4587708 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid4587708  *.class file
+
+\par }{\rtlch \af0 \ltrch \insrsid5836923 interpreter: look at the platform}{\rtlch \af0 \ltrch \insrsid4587708 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12015951 {\rtlch \af0 \ltrch \insrsid4596989 So Java doesn't output an exe file }{\rtlch \af0 \ltrch \insrsid4596989 {\field{\*\fldinst SYMBOL 224 \\f 
+"Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid4596989  specified for the platform concerning the windows.}{\rtlch \af0 \ltrch \insrsid12015951 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13713966 {\rtlch \af0 \ltrch \insrsid13713966 __.java }{\rtlch \af0 \ltrch \insrsid4596989 
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft261\shptop28\shpright261\shpbottom268\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz24\shplockanchor\shplid1053
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8216\dpline\dpptx0\dppty0\dpptx0\dppty240\dpastartsol\dpastartw2\dpastartl2\dpx261\dpy28\dpxsize0\dpysize240\dplinew15\dplinecor0\dplinecog0\dplinecob0}
+}}}{\rtlch \af0 \ltrch \insrsid13713966        }{\rtlch \af0 \ltrch \insrsid2521112 c}{\rtlch \af0 \ltrch \insrsid13713966 ompilation
+\par __.class }{\rtlch \af0 \ltrch \insrsid13713966 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid13713966  byte code
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft261\shptop77\shpright261\shpbottom317\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz25\shplockanchor\shplid1054
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8217\dpline\dpptx0\dppty0\dpptx0\dppty240\dpastartsol\dpastartw2\dpastartl2\dpx261\dpy77\dpxsize0\dpysize240\dplinew15\dplinecor0\dplinecog0\dplinecob0}
+}}}{\rtlch \af0 \ltrch \insrsid13713966     
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2521112 {\rtlch \af0 \ltrch \insrsid14104891 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14104891 {\rtlch \af0 \ltrch \insrsid14104891 
+\par }{\rtlch \af0 \ltrch \insrsid15419745 2) No pointers}{\rtlch \af0 \ltrch \insrsid2521112 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15419745 {\rtlch \af0 \ltrch \insrsid15419745 
+\par }{\rtlch \af0 \ltrch \insrsid14104891 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14104891 {\rtlch \af0 \ltrch \insrsid14104891 
+\par 
+\par }{\rtlch \af0 \ltrch \insrsid15419745 3) Automatic Garbage Collection.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15419745 {\rtlch \af0 \ltrch \insrsid15419745     works each period
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1145891 {\rtlch \af0 \ltrch \insrsid1145891     objects have no reference any more }{\rtlch \af0 \ltrch \insrsid1145891 {\field{\*\fldinst SYMBOL
+ 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid1145891  Go to the Garbage Collection.
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft501\shptop305\shpright861\shpbottom305\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz26\shplockanchor\shplid1055
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8218\dpline\dpptx0\dppty0\dpptx360\dppty0\dpastartsol\dpastartw2\dpastartl2\dpx501\dpy305\dpxsize360\dpysize0
+\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid1145891         | 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx930\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1145891 {\rtlch \af0 \ltrch \insrsid1145891 \tab Out of scope or its value is to NULL
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx2820\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1145891 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft981\shptop233\shpright1341\shpbottom233\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz28\shplockanchor\shplid1056{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8220
+\dpline\dpptx0\dppty0\dpptx360\dppty0\dpastartsol\dpastartw2\dpastartl2\dpx981\dpy233\dpxsize360\dpysize0\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft21\shptop233\shpright261\shpbottom353\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz27\shplockanchor\shplid1057{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8219
+\dpline\dpptx0\dppty0\dpptx240\dppty120\dpastartsol\dpastartw2\dpastartl2\dpx21\dpy233\dpxsize240\dpysize120\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid1145891 s=NULL \}      Go to the Garbage Collection.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1145891 {\rtlch \af0 \ltrch \insrsid1145891      string \}
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13788741 {\rtlch \af0 \ltrch \insrsid13788741 
+\par }{\rtlch \af0 \ltrch \insrsid14104891 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14104891 {\rtlch \af0 \ltrch \insrsid14104891 
+\par 
+\par }{\rtlch \af0 \ltrch \insrsid13788741 4) No multiple inheritance
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13788741 {\rtlch \af0 \ltrch \insrsid13788741 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14104891 {\rtlch \af0 \ltrch \insrsid14104891 
+\par }{\rtlch \af0 \ltrch \insrsid13788741 5) Java is multi threaded.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13788741 {\rtlch \af0 \ltrch \insrsid13788741     Multi tasking }{\rtlch \af0 \ltrch \insrsid13788741 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings"
+ \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid13788741  more than one application are working in the same time.
+\par     Multi threading }{\rtlch \af0 \ltrch \insrsid13788741 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid13788741  sub processes concerning the same process.
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13912240 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft261\shptop269\shpright261\shpbottom629\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz29\shplockanchor\shplid1058{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 1}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8221\dpline\dpptx0\dppty0\dpptx0\dppty360
+\dpx261\dpy269\dpxsize0\dpysize360\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid13912240    Multi tasking
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft261\shptop-7\shpright3021\shpbottom4\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz30\shplockanchor\shplid1059
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8222\dpline\dpptx0\dppty0\dpptx2760\dppty11\dpx261\dpy-7\dpxsize2760\dpysize11
+\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}{\shp{\*\shpinst\shpleft3021\shptop4\shpright3021\shpbottom364\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz31\shplockanchor\shplid1060
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8223\dpline\dpptx0\dppty0\dpptx0\dppty360\dpx3021\dpy4\dpxsize0\dpysize360\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}
+{\rtlch \af0 \ltrch \insrsid14104891  }{\rtlch \af0 \ltrch \insrsid13912240 
+\par }{\rtlch \af0 \ltrch \insrsid14104891  5 ms                  }{\rtlch \af0 \ltrch \insrsid10944                    }{\rtlch \af0 \ltrch \insrsid14104891  5 ms
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14104891 {\rtlch \af0 \ltrch \insrsid14104891   P1                  }{\rtlch \af0 \ltrch \insrsid10944                    }{\rtlch \af0 \ltrch 
+\insrsid14104891      P2
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft3021\shptop16\shpright3021\shpbottom1336\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz37\shplockanchor\shplid1061
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8229\dpline\dpptx0\dppty0\dpptx0\dppty1320\dpx3021\dpy16\dpxsize0\dpysize1320\dplinew15\dplinecor0\dplinecog0\dplinecob0}
+}}{\shp{\*\shpinst\shpleft141\shptop16\shpright141\shpbottom1336\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz32\shplockanchor\shplid1062{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8224\dpline\dpptx0\dppty0\dpptx0\dppty1320
+\dpx141\dpy16\dpxsize0\dpysize1320\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid14104891 
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft621\shptop1060\shpright621\shpbottom1300\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz40\shplockanchor\shplid1063
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 1}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8232\dpline\dpptx0\dppty0\dpptx0\dppty240\dpx621\dpy1060\dpxsize0\dpysize240\dplinew15\dplinecor0\dplinecog0\dplinecob0}
+}}{\shp{\*\shpinst\shpleft21\shptop1300\shpright621\shpbottom1300\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz39\shplockanchor\shplid1064{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8231\dpline\dpptx0\dppty0\dpptx600\dppty0
+\dpx21\dpy1300\dpxsize600\dpysize0\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}{\shp{\*\shpinst\shpleft21\shptop1060\shpright21\shpbottom1300\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz38\shplockanchor\shplid1065
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8230\dpline\dpptx0\dppty0\dpptx0\dppty240\dpx21\dpy1060\dpxsize0\dpysize240\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft501\shptop100\shpright501\shpbottom1060\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz36\shplockanchor\shplid1066{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8228\dpline\dpptx0\dppty0\dpptx0\dppty960
+\dpx501\dpy100\dpxsize0\dpysize960\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}{\shp{\*\shpinst\shpleft381\shptop100\shpright381\shpbottom1060\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz35\shplockanchor\shplid1067
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8227\dpline\dpptx0\dppty0\dpptx0\dppty960\dpx381\dpy100\dpxsize0\dpysize960\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft261\shptop100\shpright261\shpbottom1060\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz34\shplockanchor\shplid1068{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8226\dpline\dpptx0\dppty0\dpptx0\dppty960
+\dpx261\dpy100\dpxsize0\dpysize960\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}{\shp{\*\shpinst\shpleft141\shptop100\shpright621\shpbottom100\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz33\shplockanchor\shplid1069
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8225\dpline\dpptx0\dppty0\dpptx480\dppty0\dpx141\dpy100\dpxsize480\dpysize0\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+}{\rtlch \af0 \ltrch \insrsid14104891  }{\rtlch \af0 \ltrch \insrsid10944 
+\par }\pard \ltrpar\ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10944 {\rtlch \af0 \ltrch \insrsid10944 5 ms/ # of threads}{\rtlch \af0 \ltrch \insrsid10944\charrsid10944 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10944 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft261\shptop28\shpright741\shpbottom28\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz41\shplockanchor\shplid1070{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8233
+\dpline\dpptx0\dppty0\dpptx480\dppty0\dpastartsol\dpastartw2\dpastartl2\dpx261\dpy28\dpxsize480\dpysize0\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid10944\charrsid10944 
+\par 
+\par }{\rtlch \af0 \ltrch \insrsid10944 
+\par Multi processing
+\par Each process has a cycle between the virtual machine and the operating system.}{\rtlch \af0 \ltrch \insrsid13912240 
+\par }{\rtlch \af0 \ltrch \insrsid10944 
+\par 6)}{\rtlch \af0 \ltrch \insrsid13516778  Java is scalable (native code }{\rtlch \af0 \ltrch \insrsid13516778 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid13516778  C code)}{\rtlch \af0 \ltrch 
+\insrsid10944 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13516778 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft381\shptop16\shpright381\shpbottom256\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz42\shplockanchor\shplid1071{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8234
+\dpline\dpptx0\dppty0\dpptx0\dppty240\dpastartsol\dpastartw2\dpastartl2\dpx381\dpy16\dpxsize0\dpysize240\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid13516778        
+\par     High level programming language
+\par    We can't reach to the H/W or my core system }{\rtlch \af0 \ltrch \insrsid13516778 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid13516778  Use the native code
+\par    My code is Java and there exists a *.dll}{\rtlch \af0 \ltrch \insrsid12995899  file that we link via it to the C file.}{\rtlch \af0 \ltrch \insrsid13516778  
+\par     
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4274036 {\rtlch \af0 \ltrch \insrsid4274036 7) }{\rtlch \af0 \ltrch \insrsid14698324 Distributed application
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14698324 {\rtlch \af0 \ltrch \insrsid14698324     Network:
+\par     client      server
+\par     distributed application }{\rtlch \af0 \ltrch \insrsid14698324 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid14698324  not }{\rtlch \af0 \ltrch \insrsid13836163 centralized}{\rtlch \af0 \ltrch 
+\insrsid14698324 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16282314 {\rtlch \af0 \ltrch \insrsid16282314     The resources are distributed on the machine of the system.
+\par     The application is distributed on more than one machine:
+\par     Network application}{\rtlch \af0 \ltrch \insrsid16282314 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid16282314 Make distribution to the function on all the machines 
+\par     I execute at your side and appear the result at your side
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13836163 {\rtlch \af0 \ltrch \insrsid13836163     }{\rtlch \af0 \ltrch \insrsid16282314 server}{\rtlch \af0 \ltrch \insrsid13836163 {\field{\*\fldinst SYMBOL
+ 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid13836163 has all the resources: database, application
+\par     (either one server or multi tears server)}{\rtlch \af0 \ltrch \insrsid14698324     }{\rtlch \af0 \ltrch \insrsid13836163 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14698324 {\rtlch \af0 \ltrch \insrsid13836163     }{\rtlch \af0 \ltrch \insrsid14698324 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16282314 {\rtlch \af0 \ltrch \insrsid16282314 8)}{\rtlch \af0 \ltrch \insrsid6255549  Secure and robust}{\rtlch \af0 \ltrch \insrsid16282314 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6255549 {\rtlch \af0 \ltrch \insrsid6255549     Robust means no interpretation in the middle.
+\par     There exist exceptions
+\par     No system crash (termination)
+\par }{\rtlch \af0 \ltrch \insrsid6781688     Security:}{\rtlch \af0 \ltrch \insrsid6255549 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6781688 {\rtlch \af0 \ltrch \insrsid6781688     The disadvantage of the applet is in order to be running, it must be downloaded.
+\par     Prevent the applet from reaching to the file system
+\par     Also, I must make limits to every body working on my machine (at using distributed
+\par     network)       
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6255549 {\rtlch \af0 \ltrch \insrsid13184849     }{\rtlch \af0 \ltrch \insrsid2884922 Each one has a specific privilege}{\rtlch \af0 \ltrch \insrsid2884922 
+{\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid2884922 there exist some things he can access and others he}{\rtlch \af0 \ltrch \insrsid6255549 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2884922 {\rtlch \af0 \ltrch \insrsid2884922     couldn't.
+\par  
+\par }{\rtlch \af0 \ltrch \insrsid15214592 Java: using mainly the classes}{\rtlch \af0 \ltrch \insrsid2884922 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15214592 {\rtlch \af0 \ltrch \insrsid15214592 There exist classes for each thing}{\rtlch \af0 \ltrch \insrsid9726256 
+: web, distributed system, network programming, \'85}{\rtlch \af0 \ltrch \insrsid15214592 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9726256 {\rtlch \af0 \ltrch \insrsid10442295 -Application}{\rtlch \af0 \ltrch \insrsid9726256 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10442295 {\rtlch \af0 \ltrch \insrsid10442295 -Applet
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7680499 {\rtlch \af0 \ltrch \insrsid10442295 -RMI}{\rtlch \af0 \ltrch \insrsid7680499 : }{\rtlch \af0 \ltrch \insrsid10442295 Remote Method Invocation
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10442295 {\rtlch \af0 \ltrch \insrsid7680499  }{\rtlch \af0 \ltrch \insrsid10442295 In order to make distributed system.
+\par }{\rtlch \af0 \ltrch \insrsid7680499  All the code is Java}{\rtlch \af0 \ltrch \insrsid10442295 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9726256 {\rtlch \af0 \ltrch \insrsid2062255 -CORBA (distributed system + Native code)}{\rtlch \af0 \ltrch \insrsid9726256 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14698324 {\rtlch \af0 \ltrch \insrsid14698324  }{\rtlch \af0 \ltrch \insrsid7680499 If there exits a native code (e.g. C language)
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7680499 {\rtlch \af0 \ltrch \insrsid7680499 -}{\rtlch \af0 \ltrch \insrsid333200 JNI: Java Native Interface
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid333200 {\rtlch \af0 \ltrch \insrsid333200  There }{\rtlch \af0 \ltrch \insrsid8339517 exist}{\rtlch \af0 \ltrch \insrsid333200 
+ 6 steps in order to make a native code.
+\par }{\rtlch \af0 \ltrch \insrsid14698324  }{\rtlch \af0 \ltrch \insrsid8339517 Java.sun.com }{\rtlch \af0 \ltrch \insrsid8339517 {\field{\*\fldinst SYMBOL 223 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid8339517 virtual machine
+
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid228756 {\rtlch \af0 \ltrch \insrsid228756 -C files
+\par   Implementation of methods in it
+\par -Mapping between data types between C & Java
+\par }{\rtlch \af0 \ltrch \insrsid1641803 - *.dll file
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1641803 {\rtlch \af0 \ltrch \insrsid1641803 -Servlets (JSP}{\rtlch \af0 \ltrch \insrsid1641803 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt
+\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid1641803 server side coding)}{\rtlch \af0 \ltrch \insrsid228756   
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8339517 {\rtlch \af0 \ltrch \insrsid8339517  }{\rtlch \af0 \ltrch \insrsid14698324  }{\rtlch \af0 \ltrch \insrsid1538638 Web sites: presentation logic}{\rtlch 
+\af0 \ltrch \insrsid8390041  (web }{\rtlch \af0 \ltrch \insrsid5401114 designers}{\rtlch \af0 \ltrch \insrsid8390041 )}{\rtlch \af0 \ltrch \insrsid8390041 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch 
+\insrsid8390041  use JSP (like ASP <html> <%vb%}{\rtlch \af0 \ltrch \insrsid1916737 >)}{\rtlch \af0 \ltrch \insrsid8390041 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12337825 {\rtlch \af0 \ltrch \insrsid12337825 
+                                                                         <html> <%__%> (differs from the servlets)
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14442816 {\rtlch \af0 \ltrch \insrsid8390041                    business logic        (web processor)    }{\rtlch \af0 \ltrch \insrsid14442816 
+\par }{\rtlch \af0 \ltrch \insrsid1916737 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1916737 {\rtlch \af0 \ltrch \insrsid14442816 -}{\rtlch \af0 \ltrch \insrsid6892352 AWT/}{\rtlch \af0 \ltrch \insrsid8390041  }{\rtlch \af0 \ltrch 
+\insrsid1916737 swing }{\rtlch \af0 \ltrch \insrsid1916737 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid1916737 GUI
+\par }{\rtlch \af0 \ltrch \insrsid6113862 The interface is dependent on the platform
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6113862 {\rtlch \af0 \ltrch \insrsid6113862 Oracle is written by Java
+\par Oracle produces JDBuilder: implem}{\rtlch \af0 \ltrch \insrsid14841005 entation environment in Java.}{\rtlch \af0 \ltrch \insrsid14698324 
+\par }{\rtlch \af0 \ltrch \insrsid13975977 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13975977 {\rtlch \af0 \ltrch \insrsid9118645 The class is the abstraction of the object (data type)}{\rtlch \af0 \ltrch \insrsid14841005 .}{\rtlch \af0 \ltrch 
+\insrsid6113862 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13373253 {\rtlch \af0 \ltrch \insrsid13373253 The object is the instance from the class.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14698324 {\rtlch \af0 \ltrch \insrsid13975977 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13975977 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft1341\shptop221\shpright1701\shpbottom461\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz43\shplockanchor\shplid1072{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 1}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8235
+\dpline\dpptx360\dppty0\dpptx0\dppty240\dpaendsol\dpaendw2\dpaendl2\dpx1341\dpy221\dpxsize360\dpysize240\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid13975977                             object m1  }{\rtlch \af0 \ltrch 
+\insrsid13975977 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid13975977 x(has a specific value)    
+\par class Myclass}{\rtlch \af0 \ltrch \insrsid14698324      }{\rtlch \af0 \ltrch \insrsid4274036 
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft1341\shptop29\shpright1701\shpbottom269\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz44\shplockanchor\shplid1073
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8236\dpline\dpptx0\dppty0\dpptx360\dppty240\dpastartsol\dpastartw2\dpastartl2\dpx1341\dpy29\dpxsize360\dpysize240
+\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid13975977      \{                     object m2  }{\rtlch \af0 \ltrch \insrsid13975977 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch 
+\insrsid13975977 x(has a specific value)    
+\par          int x;
+\par          .
+\par          .
+\par          .
+\par      \}
+\par 
+\par }{\rtlch \af0 \ltrch \insrsid9115427 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9115427 {\rtlch \af0 \ltrch \insrsid9115427 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch \af0 \ltrch \insrsid13975977 class in Java:
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13975977 {\rtlch \af0 \ltrch \insrsid9115427 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9115427 {\rtlch \af0 \ltrch \insrsid13975977 package}{\rtlch \af0 \ltrch \insrsid13975977 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt
+\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid13975977 as folder(logical)
+\par }{\rtlch \af0 \ltrch \insrsid9115427 small letters (java is case sensitive)
+\par use the standards for the naming
+\par could be written capital letters   
+\par emak.application1;
+\par 
+\par import:
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13975977 {\rtlch \af0 \ltrch \insrsid13975977 classes for i/p stream
+\par classes for AWT
+\par classes for swing
+\par classes for Network system
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9115427 {\rtlch \af0 \ltrch \insrsid13975977  }{\rtlch \af0 \ltrch \insrsid9115427 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13975977 {\rtlch \af0 \ltrch \insrsid9115427 class:
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9115427 {\rtlch \af0 \ltrch \insrsid6751809 class could be without package
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6751809 {\rtlch \af0 \ltrch \insrsid6751809 we concern my folder is my package.
+\par e.g.:
+\par C:\\Java\\assign}{\rtlch \af0 \ltrch \insrsid2308353 ment\\
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2308353 {\rtlch \af0 \ltrch \insrsid2308353 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid2308353 
+my package will be the folder: java.assignment or assignment only }{\rtlch \af0 \ltrch \insrsid16595833 as I was adjusting it }{\rtlch \af0 \ltrch \insrsid13975977    
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16595833 {\rtlch \af0 \ltrch \insrsid16595833     (default package)
+\par 
+\par }{\rtlch \af0 \ltrch \insrsid16405728 i}{\rtlch \af0 \ltrch \insrsid9316965 mport}{\rtlch \af0 \ltrch \insrsid9316965 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid9316965  #include}{\rtlch \af0 
+\ltrch \insrsid16595833 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16405728 {\rtlch \af0 \ltrch \insrsid16405728 make import to the package of the class that I am using.
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5247465 {\rtlch \af0 \ltrch \insrsid5247465 class
+\par    \{
+\par      string s;
+\par         .
+\par         .
+\par         .
+\par    \}
+\par 
+\par }{\rtlch \af0 \ltrch \insrsid795048 Look at the .class files and see if my usage to it is correct or not }{\rtlch \af0 \ltrch \insrsid5247465 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid795048 {\rtlch \af0 \ltrch \insrsid795048 
+\par There exist 7 packages:
+\par  Java.lang }{\rtlch \af0 \ltrch \insrsid795048 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid795048  for language, string    rubber class    system
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13975977 {\rtlch \af0 \ltrch \insrsid795048  }{\rtlch \af0 \ltrch \insrsid7173866      The only one that is imported by default}{\rtlch \af0 \ltrch 
+\insrsid13975977 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7173866 {\rtlch \af0 \ltrch \insrsid7173866 Java.util}{\rtlch \af0 \ltrch \insrsid7173866 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt
+\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid7173866 util:utility
+\par       tables, calendar,}{\rtlch \af0 \ltrch \insrsid12940053  color,}{\rtlch \af0 \ltrch \insrsid7173866  date, time
+\par Java.applet
+\par Java.awt
+\par Java.io }{\rtlch \af0 \ltrch \insrsid7173866 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid7173866 i/o stream
+\par Java.sql  }{\rtlch \af0 \ltrch \insrsid7173866 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid7173866 for connecting data base
+\par Java.net
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11810493 {\rtlch \af0 \ltrch \insrsid12940053 import java.util.calender;    \}}{\rtlch \af0 \ltrch \insrsid11810493 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12940053 {\rtlch \af0 \ltrch \insrsid12940053 import java.util.color;         \}}{\rtlch \af0 \ltrch \insrsid12940053 {\field{\*\fldinst SYMBOL 224 \\f "Wingdi
+ngs" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid12940053  only make a reference
+\par import java.awt.*;               \}
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7173866 {\rtlch \af0 \ltrch \insrsid7173866 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12940053 {\rtlch \af0 \ltrch \insrsid11691748 Access modi}{\rtlch \af0 \ltrch \insrsid12719504 fier class}{\rtlch \af0 \ltrch \insrsid12940053 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12719504 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft1101\shptop4\shpright1581\shpbottom124\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz45\shplockanchor\shplid1074{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 1}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8237
+\dpline\dpptx480\dppty0\dpptx0\dppty120\dpastartsol\dpastartw2\dpastartl2\dpx1101\dpy4\dpxsize480\dpysize120\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid12719504 class_name    extends base_class 
+\par      \{                    |_ }{\rtlch \af0 \ltrch \insrsid11691748 inherit}{\rtlch \af0 \ltrch \insrsid12719504  from one class only
+\par           declaration: definition of the methods and the variables
+\par      \} 
+\par }{\rtlch \af0 \ltrch \insrsid16384235 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16384235 {\rtlch \af0 \ltrch \insrsid16384235 declaration for variables access modifier
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft2661\shptop28\shpright2901\shpbottom268\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz47\shplockanchor\shplid1075
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8239\dpline\dpptx0\dppty0\dpptx240\dppty240\dpastartsol\dpastartw2\dpastartl2\dpx2661\dpy28\dpxsize240\dpysize240
+\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}{\shp{\*\shpinst\shpleft2301\shptop28\shpright2541\shpbottom268\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz46\shplockanchor\shplid1076
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 1}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8238\dpline\dpptx240\dppty0\dpptx0\dppty240\dpastartsol\dpastartw2\dpastartl2\dpx2301\dpy28\dpxsize240\dpysize240
+\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid16384235                                          }{\rtlch \af0 \ltrch \insrsid12719504           
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12719504 {\rtlch \af0 \ltrch \insrsid16384235                                  private  public
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16384235 {\rtlch \af0 \ltrch \insrsid16384235 declaration for methods access modifier: return value, parameters
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15605033 {\rtlch \af0 \ltrch \insrsid8265756               }{\rtlch \af0 \ltrch \ul\insrsid8265756\charrsid8265756 Application: }{\rtlch \af0 \ltrch 
+\insrsid8265756                                                      
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8265756 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft1101\shptop208\shpright3261\shpbottom328\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz48\shplockanchor\shplid1077{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8240
+\dpline\dpptx0\dppty0\dpptx2160\dppty120\dpastartsol\dpastartw2\dpastartl2\dpx1101\dpy208\dpxsize2160\dpysize120\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid8265756 FirstApplication.java
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx3285\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8265756 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft2781\shptop172\shpright3261\shpbottom172\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz49\shplockanchor\shplid1078{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8241
+\dpline\dpptx0\dppty0\dpptx480\dppty0\dpastartsol\dpastartw2\dpastartl2\dpx2781\dpy172\dpxsize480\dpysize0\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid8265756 pub}{\rtlch \af0 \ltrch \insrsid11691748 l}{\rtlch \af0 \ltrch 
+\insrsid8265756 ic class  FirstApplication\tab the same name
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8265756 {\rtlch \af0 \ltrch \insrsid8265756        \{
+\par            public static void main(string  s[])
+\par                     \{
+\par                       system.out.println("Hello world"); 
+\par                     \}
+\par        \} 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16384235 {\rtlch \af0 \ltrch \insrsid16384235  
+\par    }{\rtlch \af0 \ltrch \insrsid12719504 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3181 {\rtlch \af0 \ltrch \insrsid3181 In the virtual machine there exist compiler and interpreter
+\par .ban }{\rtlch \af0 \ltrch \insrsid3181 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid3181  contains the command: interpretation
+\par                                                    execution
+\par                                                    .
+\par                                                    .
+\par }{\rtlch \af0 \ltrch \insrsid5124360 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5124360 {\rtlch \af0 \ltrch \insrsid3181 The output environment is the dos.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4614887 {\rtlch \af0 \ltrch \insrsid4614887 
+\par FirstApplication.java
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx975\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4614887 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft861\shptop5\shpright861\shpbottom365\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz50\shplockanchor\shplid1079{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8242
+\dpline\dpptx0\dppty0\dpptx0\dppty360\dpastartsol\dpastartw2\dpastartl2\dpx861\dpy5\dpxsize0\dpysize360\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid4614887       \tab javac
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4614887 {\rtlch \af0 \ltrch \insrsid4614887  FirstApplication.class
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1035\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4614887 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft861\shptop53\shpright861\shpbottom413\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz51\shplockanchor\shplid1080{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8243
+\dpline\dpptx0\dppty0\dpptx0\dppty360\dpastartsol\dpastartw2\dpastartl2\dpx861\dpy53\dpxsize0\dpysize360\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid4614887 \tab java
+\par will execute on any application without the virtual machine being existed
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1035\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4423241 {\rtlch \af0 \ltrch \insrsid4423241 string s[]:
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft21\shptop29\shpright21\shpbottom269\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz52\shplockanchor\shplid1081
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8244\dpline\dpptx0\dppty0\dpptx0\dppty240\dpastartsol\dpastartw2\dpastartl2\dpx21\dpy29\dpxsize0\dpysize240\dplinew15\dplinecor0\dplinecog0\dplinecob0}
+}}}{\rtlch \af0 \ltrch \insrsid4423241     java calc  4+5  }{\rtlch \af0 \ltrch \insrsid4423241 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid4423241  3 arguments: 4, +, 5}{\rtlch \af0 \ltrch 
+\insrsid342931 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1035\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid342931 {\rtlch \af0 \ltrch \insrsid342931 must be existin}{\rtlch \af0 \ltrch \insrsid11672336 g}{\rtlch \af0 \ltrch \insrsid342931 
+ either you send n argument or not.}{\rtlch \af0 \ltrch \insrsid11672336 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1035\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11672336 {\rtlch \af0 \ltrch \insrsid11672336 
+\par }{\rtlch \af0 \ltrch \ul\insrsid15605033 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1035\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15605033 {\rtlch \af0 \ltrch \ul\insrsid15605033 
+\par 
+\par }{\rtlch \af0 \ltrch \ul\insrsid15605033\charrsid15605033 Applet:
+\par }{\rtlch \af0 \ltrch \insrsid15605033 Outputs in a browser
+\par There exists a contact between the virtual machine and the applet that will be run.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1035\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6322150 {\rtlch \af0 \ltrch \insrsid6322150 We }{\rtlch \af0 \ltrch \insrsid15033844 want to make a class of typ}{\rtlch \af0 \ltrch \insrsid6322150 
+e applet
+\par 
+\par public class FirstApplet  extends Applet
+\par          \{
+\par 
+\par          \}  
+\par 
+\par Lifecycle:
+\par Initialize the memory
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft381\shptop196\shpright741\shpbottom196\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz53\shplockanchor\shplid1082
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8245\dpline\dpptx0\dppty0\dpptx360\dppty0\dpastartsol\dpastartw2\dpastartl2\dpx381\dpy196\dpxsize360\dpysize0
+\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid6322150 init( )    executed only once 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1035\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15605033 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft21\shptop40\shpright21\shpbottom280\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz54\shplockanchor\shplid1083{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8246
+\dpline\dpptx0\dppty0\dpptx0\dppty240\dpastartsol\dpastartw2\dpastartl2\dpx21\dpy40\dpxsize0\dpysize240\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid6322150   |_ placing the constructor
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1035\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6322150 {\rtlch \af0 \ltrch \insrsid6322150 has no implementation in the class of the applet }{\rtlch \af0 \ltrch \insrsid4423241      
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3181 {\rtlch \af0 \ltrch \insrsid3181   
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15879848 {\rtlch \af0 \ltrch \insrsid15879848 public void init( ) \{ \}
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft1221\shptop16\shpright1221\shpbottom256\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz55\shplockanchor\shplid1084
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8247\dpline\dpptx0\dppty0\dpptx0\dppty240\dpastartsol\dpastartw2\dpastartl2\dpx1221\dpy16\dpxsize0\dpysize240
+\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid15879848 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1230\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15879848 {\rtlch \af0 \ltrch \insrsid15879848                   we make an override to it
+\par 
+\par Its opposite:
+\par destroy ( )
+\par     |_ executes only once
+\par }{\rtlch \af0 \ltrch \insrsid8474465 The classes of the java don't make to it destructor }{\rtlch \af0 \ltrch \insrsid15879848 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1230\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4063619 {\rtlch \af0 \ltrch \insrsid4063619 
+\par }{\rtlch \af0 \ltrch \insrsid5856890 public void destroy ( ) \{ \}}{\rtlch \af0 \ltrch \insrsid4063619 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1230\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5856890 {\rtlch \af0 \ltrch \insrsid5856890 public void paint (graphics object) \{ \}
+\par start ( );
+\par stop ( );
+\par Every thing is drawn on the applet
+\par We don't write on the applet.}{\rtlch \af0 \ltrch \insrsid11363769 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1230\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11363769 {\rtlch \af0 \ltrch \insrsid6422941 e.g.: draw}{\rtlch \af0 \ltrch \insrsid11363769 string}{\rtlch \af0 \ltrch \insrsid6422941 ( )}{\rtlch 
+\af0 \ltrch \insrsid11363769 
+\par }{\rtlch \af0 \ltrch \insrsid2170004 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1230\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2170004 {\rtlch \af0 \ltrch \insrsid2170004 There is no need to make running to the applet while it is not appear on front of me.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1230\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1317397 {\rtlch \af0 \ltrch \insrsid2170004 (}{\rtlch \af0 \ltrch \insrsid1317397 i.e.}{\rtlch \af0 \ltrch \insrsid2170004  when I make minimize)
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1230\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2170004 {\rtlch \af0 \ltrch \insrsid1317397 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1230\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1317397 {\rtlch \af0 \ltrch \insrsid1317397 start, stop: run more than one time.
+\par }{\rtlch \af0 \ltrch \insrsid14900997 The object of the applet is existing in the memory }{\rtlch \af0 \ltrch \insrsid11687790 and it is either existing on front of me or not.}{\rtlch \af0 \ltrch \insrsid4533928 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1230\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4533928 {\rtlch \af0 \ltrch \insrsid4533928 
+\par }{\rtlch \af0 \ltrch \insrsid6422941 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1230\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6422941 {\rtlch \af0 \ltrch \insrsid6422941 
+\par 
+\par 
+\par 
+\par }{\rtlch \af0 \ltrch \insrsid6622499 public class FirstApplication extends Applet }{\rtlch \af0 \ltrch \insrsid6622499 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid6190100 exits}{\rtlch \af0 \ltrch 
+\insrsid6622499  in java.Applet.Applet }{\rtlch \af0 \ltrch \insrsid6622499 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid6622499  class name
+\par         }{\rtlch \af0 \ltrch \insrsid6422941 \{}{\rtlch \af0 \ltrch \insrsid6622499                                                                               }{\rtlch \af0 \ltrch \insrsid6190100        }{\rtlch \af0 \ltrch \insrsid6622499      }{
+\rtlch \af0 \ltrch \insrsid5856890  }{\rtlch \af0 \ltrch \insrsid6622499 |_ package name}{\rtlch \af0 \ltrch \insrsid5856890  
+\par }{\rtlch \af0 \ltrch \insrsid6422941            public void paint(Graphics g)
+\par                    \{
+\par                       g.drawstring("}{\rtlch \af0 \ltrch \insrsid10514177 Hollow}{\rtlch \af0 \ltrch \insrsid6422941  world",50,50);
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1230\tqc\tx4320\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6422941 {\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 
+{\shp{\*\shpinst\shpleft4581\shptop4\shpright4581\shpbottom244\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz57\shplockanchor\shplid1085{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 1}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8249
+\dpline\dpptx0\dppty0\dpptx0\dppty240\dpastartsol\dpastartw2\dpastartl2\dpx4581\dpy4\dpxsize0\dpysize240\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}
+{\shp{\*\shpinst\shpleft4341\shptop4\shpright4341\shpbottom244\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz56\shplockanchor\shplid1086{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8248
+\dpline\dpptx0\dppty0\dpptx0\dppty240\dpastartsol\dpastartw2\dpastartl2\dpx4341\dpy4\dpxsize0\dpysize240\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid6422941                    \} \tab 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1230\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6622499 {\rtlch \af0 \ltrch \insrsid6422941         \}                                       with respect to the 0,0 of the applet}{\rtlch \af0 \ltrch 
+\insrsid6622499 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1230\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15879848 {\rtlch \af0 \ltrch \insrsid15879848  }{\rtlch \af0 \ltrch \insrsid6422941 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1230\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6422941 {\rtlch \af0 \ltrch \insrsid9454258 import java.Applet.Applet; }{\rtlch \af0 \ltrch \insrsid10230420 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1230\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10230420 {\rtlch \af0 \ltrch \insrsid9454258 import java.awt.graphics;
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1230\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9454258 {\rtlch \af0 \ltrch \insrsid9454258 
+\par }{\rtlch \af0 \ltrch \lang1024\langfe1024\noproof\insrsid5385197 {\shp{\*\shpinst\shpleft21\shptop100\shpright21\shpbottom1660\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz59\shplockanchor\shplid1087
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8251\dpline\dpptx0\dppty0\dpptx0\dppty1560\dpastartsol\dpastartw2\dpastartl2\dpx21\dpy100\dpxsize0\dpysize1560
+\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}{\shp{\*\shpinst\shpleft741\shptop220\shpright741\shpbottom820\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz58\shplockanchor\shplid1088
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineEndArrowhead}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt8250\dpline\dpptx0\dppty0\dpptx0\dppty600\dpastartsol\dpastartw2\dpastartl2\dpx741\dpy220\dpxsize0\dpysize600
+\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch \af0 \ltrch \insrsid10230420 FirstApplet.java
+\par }\pard \ltrpar\ql \fi720\li0\ri0\widctlpar\tx1230\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10230420 {\rtlch \af0 \ltrch \insrsid10230420   javac
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1230\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10230420 {\rtlch \af0 \ltrch \insrsid10230420 
+\par FirstApplet.calss}{\rtlch \af0 \ltrch \insrsid15879848 \tab }{\rtlch \af0 \ltrch \insrsid10230420 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10230420 {\rtlch \af0 \ltrch \insrsid10230420 
+\par   Because when it enter inside it will search on the class whose name is also FirstApplet}{\rtlch \af0 \ltrch \insrsid15879848 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9454258 {\rtlch \af0 \ltrch \insrsid7343747 as the javac the app}{\rtlch \af0 \ltrch \insrsid10230420 let viewer read the HTML file, till it reach the }{
+\rtlch \af0 \ltrch \insrsid9454258 tag of the apllet and }{\rtlch \af0 \ltrch \insrsid7343747 execute}{\rtlch \af0 \ltrch \insrsid9454258  it only.}{\rtlch \af0 \ltrch \insrsid10230420 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10230420 {\rtlch \af0 \ltrch \insrsid10230420 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5968420 {\rtlch \af0 \ltrch \insrsid5968420 The problem with the Microsoft that we must setup the virtual machine concerning 
+\par the browser else use the applet viewer.
+\par 
+\par <html>
+\par }{\rtlch \af0 \ltrch \insrsid7108202   }{\rtlch \af0 \ltrch \insrsid5968420 <body>
+\par }{\rtlch \af0 \ltrch \insrsid7108202    }{\rtlch \af0 \ltrch \insrsid5968420 <center>
+\par }{\rtlch \af0 \ltrch \insrsid7108202    }{\rtlch \af0 \ltrch \insrsid5968420 <applet code="FirstApplet"  width="300"  }{\rtlch \af0 \ltrch \insrsid2249271 height}{\rtlch \af0 \ltrch \insrsid5968420 ="300">
+\par }{\rtlch \af0 \ltrch \insrsid7108202    }{\rtlch \af0 \ltrch \insrsid5968420 </applet>
+\par }{\rtlch \af0 \ltrch \insrsid7108202   }{\rtlch \af0 \ltrch \insrsid5968420 </body>
+\par </html>
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10246436 {\rtlch \af0 \ltrch \insrsid10246436 
+\par }{\rtlch \af0 \ltrch \insrsid4613446 write the file name completely if it exists in another directory.}{\rtlch \af0 \ltrch \insrsid10246436 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4613446 {\rtlch \af0 \ltrch \insrsid4613446 e.g.: C:\\folder_name\\FirstApplet
+\par 
+\par Name the HTML file with any name as you want.
+\par }{\rtlch \af0 \ltrch \insrsid6102377 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6102377 {\rtlch \af0 \ltrch \insrsid4613446  
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10230420 {\rtlch \af0 \ltrch \insrsid10230420\charrsid10230420 
+\par }}

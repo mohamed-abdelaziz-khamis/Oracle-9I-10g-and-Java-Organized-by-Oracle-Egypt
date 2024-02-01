@@ -1,0 +1,62 @@
+Normal inner class:
+**************************
+
+public class Class_1 extends Applet
+{
+	Inner_class in = new Inner_class();
+
+	class Inner_class
+	{
+	}
+
+}
+
+public class Class_2
+{
+	--Class_1 c1 = new Class_1();
+            --|
+           |   --Class_1.Inner_class in = new c1.Inner_class();
+           |
+           |
+           |---->   Class_1.Inner_class in = new Class_1().new Inner_class();
+}
+
+---------------------------
+
+Static inner class:
+***********************
+
+public class Class_1
+{
+	static class Class_2
+	{
+	}
+}
+
+public MyClass
+{
+	Class_1.Class_2 in = new Class_1.Class_2();
+}
+
+--------------------------------
+
+Local inner class:
+****************
+
+public class MyClass
+{
+int x=10;
+
+public void myMethod(final String s)
+{
+	int y;
+	class inner_class
+	{
+		x = x+5;
+		y = y*x;   ----> error accessing y
+
+		s+="Hello";
+	}
+}
+
+}

@@ -1,0 +1,47 @@
+public class WrongFileNameException extends Exception
+{
+	String msg = "Wrong file name...";
+
+	public String getMessage()
+	{
+		return msg;
+	}
+
+	public WrongFileNameException()
+	{
+	}
+
+	public WrongFileNameException(String s)
+	{
+		msg = s;
+	}
+}
+
+*****************************
+
+public class MyClass
+{
+	public FIle createFile(String fname) throws WrongFileNameException
+	{
+		if( (fname==null) || (fname.equals("")) )
+			throw new WrongFileNameException();
+	}
+}
+
+**************************
+
+public class AnyClass
+{
+	AnyClass()
+	{
+		MyClass mc = new MyClass();
+		try
+		{
+			mc.createFile();
+		}
+		catch(WrongFileNameException e)
+		{
+			
+		}
+	}
+}

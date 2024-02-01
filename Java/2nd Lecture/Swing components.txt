@@ -1,0 +1,5 @@
+The swing components and how do they look like:
+Here's a small application that shows a frame with 3 buttons, in which
+if any is clicked it applies the interface labeled on the button...
+
+

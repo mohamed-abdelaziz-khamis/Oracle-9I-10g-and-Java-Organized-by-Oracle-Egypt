@@ -1,0 +1,122 @@
+{\rtf1\adeflang1025\ansi\ansicpg1256\uc1\adeff0\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f42\froman\fcharset238\fprq2 Times New Roman CE;}
+{\f43\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f45\froman\fcharset161\fprq2 Times New Roman Greek;}{\f46\froman\fcharset162\fprq2 Times New Roman Tur;}{\f47\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f48\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f49\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f50\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\rtlpar \qr \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}
+{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch \af0\afs20 \ltrch \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}}{\*\latentstyles\lsdstimax156\lsdlockeddef0}
+{\*\rsidtbl \rsid1401927\rsid1917680\rsid2109000\rsid2625588\rsid3414860\rsid3565412\rsid4394904\rsid4735754\rsid4852424\rsid5121549\rsid5268033\rsid5579747\rsid6247162\rsid6318126\rsid6358966\rsid6707410\rsid7886290\rsid8133135\rsid8674933\rsid8931419
+\rsid9178339\rsid9196431\rsid10309732\rsid10447847\rsid10627444\rsid12011554\rsid12665256\rsid12926408\rsid13328366\rsid13905472\rsid14046849\rsid14097191\rsid14686078\rsid14826051\rsid15092132\rsid16465705}{\*\generator Microsoft Word 11.0.5604;}{\info
+{\author 3M}{\operator 3M}{\creatim\yr2004\mo9\dy2\hr14\min53}{\revtim\yr2004\mo9\dy2\hr21\min1}{\version39}{\edmins33}{\nofpages3}{\nofwords270}{\nofchars1542}{\*\company Home}{\nofcharsws1809}{\vern24689}}\ltrsect 
+\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\nolnhtadjtbl\rsidroot16465705 \fet0\ltrpar 
+\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4
+\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7
+\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar
+\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \rtlch \af0\afs24\alang1025 \ltrch \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch \af0 \ltrch \insrsid5268033 Chapter 8:
+\par Manipulating data
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid14046849 {\rtlch \af0 \ltrch \insrsid14046849 DML
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \insrsid5268033 Retrieve data from}{\rtlch \af0 \ltrch \insrsid14046849  different tables}{\rtlch \af0 \ltrch \insrsid5268033 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid14046849 {\rtlch \af0 \ltrch \insrsid14046849 now: update the data in a table}{\rtlch \af0 \ltrch \insrsid14826051 s}{\rtlch \af0 \ltrch \insrsid14046849 
+\par 
+\par insert rows
+\par delete rows
+\par .
+\par .
+\par .
+\par 
+\par DML: add, modify, remove,
+\par stat. execute one task
+\par 
+\par transaction:
+\par package of }{\rtlch \af0 \ltrch \insrsid14826051 statements}{\rtlch \af0 \ltrch \insrsid14046849 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid14046849  A set ex}{\rtlch \af0 \ltrch \insrsid14826051 
+e}{\rtlch \af0 \ltrch \insrsid14046849 cute}{\rtlch \af0 \ltrch \insrsid14826051 s}{\rtlch \af0 \ltrch \insrsid14046849  a certain task.
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid5268033 {\rtlch \af0 \ltrch \insrsid6247162 Account A }{\rtlch \af0 \ltrch \insrsid6247162 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch 
+\insrsid12665256  100}{\rtlch \af0 \ltrch \insrsid5268033 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid12665256 {\rtlch \af0 \ltrch \insrsid12665256 Account B    __|
+\par 
+\par }{\rtlch \af0 \ltrch \insrsid3414860 modify Account A  -100
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid3414860 {\rtlch \af0 \ltrch \insrsid3414860                                     |                               
+\par modify Account B  +100 }{\rtlch \af0 \ltrch \insrsid12665256 
+\par }{\rtlch \af0 \ltrch \insrsid3414860 insert }{\rtlch \af0 \ltrch \insrsid6318126 (}{\rtlch \af0 \ltrch \insrsid3414860 auditing data}{\rtlch \af0 \ltrch \insrsid6318126 )}{\rtlch \af0 \ltrch \insrsid3414860 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid6318126 {\rtlch \af0 \ltrch \insrsid13328366 \{}{\rtlch \af0 \ltrch \insrsid12011554 Decrease from the account of A: 100}{\rtlch \af0 \ltrch \insrsid6318126 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid12011554 {\rtlch \af0 \ltrch \insrsid13328366 \{}{\rtlch \af0 \ltrch \insrsid12011554 Increase to the account of B: 100
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid13328366 {\rtlch \af0 \ltrch \insrsid13328366 \{Save the new values
+\par }{\rtlch \af0 \ltrch \insrsid4394904 commit}{\rtlch \af0 \ltrch \insrsid13328366 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid4394904 {\rtlch \af0 \ltrch \insrsid10447847 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid10447847 
+make a confirm to this operations}{\rtlch \af0 \ltrch \insrsid4394904 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid2625588 {\rtlch \af0 \ltrch \insrsid2625588 
+\par insert into }{\rtlch \ab\af0 \ltrch \b\insrsid2625588\charrsid2625588 table
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid13328366 {\rtlch \af0 \ltrch \insrsid2625588 values __, __, __}{\rtlch \af0 \ltrch \insrsid13328366 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid2625588 {\rtlch \af0 \ltrch \insrsid8674933 W}{\rtlch \af0 \ltrch \insrsid2625588 e can't make insert for more than one row.
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid7886290 {\rtlch \af0 \ltrch \insrsid7886290 department }{\rtlch \af0 \ltrch \insrsid7886290 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 
+\ltrch \insrsid7886290 dept_id
+\par                    }{\rtlch \af0 \ltrch \insrsid7886290 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid7886290 dept_name
+\par                    }{\rtlch \af0 \ltrch \insrsid7886290 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid7886290 manager_id
+\par                    }{\rtlch \af0 \ltrch \insrsid7886290 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid7886290 location_id
+\par 
+\par }{\rtlch \af0 \ltrch \insrsid6707410 pseudo column: sysdate }{\rtlch \af0 \ltrch \insrsid6707410 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid6707410 
+we can make insert in a column from the table by sysdate}{\rtlch \af0 \ltrch \insrsid1917680 .}{\rtlch \af0 \ltrch \insrsid7886290 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid1917680 {\rtlch \af0 \ltrch \insrsid1917680 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10627444 {\rtlch \af0 \ltrch \insrsid10627444 
+\par 
+\par 
+\par 
+\par merge
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid4852424 {\rtlch \af0 \ltrch \insrsid4852424    }{\rtlch \af0 \ltrch \insrsid10627444 B                     A
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10627444 {\rtlch \af0 \ltrch \insrsid10627444 update   }{\rtlch \af0 \ltrch \insrsid10627444 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 
+\ltrch \insrsid10627444       update
+\par new       }{\rtlch \af0 \ltrch \insrsid10627444 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid10627444       insert
+\par 
+\par 
+\par log file:
+\par save: \{old values
+\par          \{new values}{\rtlch \af0 \ltrch \insrsid5579747 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid5579747 {\rtlch \af0 \ltrch \insrsid5579747 
+\par commit: save the values
+\par rollback: undo}{\rtlch \af0 \ltrch \insrsid10627444    
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid1917680 {\rtlch \af0 \ltrch \insrsid1917680 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid15092132 {\rtlch \af0 \ltrch \insrsid2109000 SQL}{\rtlch \af0 \ltrch \insrsid15092132  ca.SQL code
+\par }{\rtlch \af0 \ltrch \insrsid8133135 check }{\rtlch \af0 \ltrch \insrsid15092132 =0 }{\rtlch \af0 \ltrch \insrsid15092132 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid15092132 100
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid6707410 {\rtlch \af0 \ltrch \insrsid15092132   }{\rtlch \af0 \ltrch \insrsid8133135           }{\rtlch \af0 \ltrch \insrsid15092132  |__ if success}{\rtlch \af0 \ltrch \insrsid6707410 
+
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid15092132 {\rtlch \af0 \ltrch \insrsid15092132 
+\par insert __
+\par }{\rtlch \af0 \ltrch \insrsid2109000 if SQL }{\rtlch \af0 \ltrch \insrsid15092132 ca.SQL code = 0   //success
+\par    ___
+\par       }{\rtlch \af0 \ltrch \insrsid2109000 if SQL }{\rtlch \af0 \ltrch \insrsid15092132 ca.SQL code = 0   
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid7886290 {\rtlch \af0 \ltrch \insrsid15092132               .
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid15092132 {\rtlch \af0 \ltrch \insrsid15092132                 .
+\par                   .
+\par                   commit}{\rtlch \af0 \ltrch \insrsid7886290 
+\par }{\rtlch \af0 \ltrch \insrsid15092132 else }{\rtlch \af0 \ltrch \insrsid2109000 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid2109000 {\rtlch \af0 \ltrch \insrsid2109000     }{\rtlch \af0 \ltrch \insrsid15092132 rollback
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid15092132 {\rtlch \af0 \ltrch \insrsid15092132 end if
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid8133135 {\rtlch \af0 \ltrch \insrsid8133135 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid14097191 {\rtlch \af0 \ltrch \insrsid14097191 s1.emp=s2.emp }{\rtlch \af0 \ltrch \insrsid14097191 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 
+\ltrch \insrsid14097191  wrong: make an update to something in the emp table
+\par }{\rtlch \af0 \ltrch \insrsid6358966 Already known that they}{\rtlch \af0 \ltrch \insrsid14097191  are equal, it is not required to make an update.
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid8133135 {\rtlch \af0 \ltrch \insrsid8133135 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid3565412 {\rtlch \af0 \ltrch \insrsid3565412 DDL: Data Definition Language
+\par }{\rtlch \af0 \ltrch \insrsid4735754 Objects:}{\rtlch \af0 \ltrch \insrsid3565412 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid4735754 {\rtlch \af0 \ltrch \insrsid4735754 table }{\rtlch \af0 \ltrch \insrsid4735754 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch 
+\insrsid4735754  OK
+\par view             }{\rtlch \af0 \ltrch \insrsid13905472                }{\rtlch \af0 \ltrch \insrsid4735754 \}
+\par sequence}{\rtlch \af0 \ltrch \insrsid13905472                }{\rtlch \af0 \ltrch \insrsid4735754       \}}{\rtlch \af0 \ltrch \insrsid13905472  }{\rtlch \af0 \ltrch \insrsid13905472 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt
+\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid13905472 most common}{\rtlch \af0 \ltrch \insrsid4735754 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid13905472 {\rtlch \af0 \ltrch \insrsid4735754 index }{\rtlch \af0 \ltrch \insrsid13905472 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\ltrch \af48 \rtlch 
+\f48\fs24\lang3073\insrsid13905472 \'dd\'e5\'d1\'d3 \'e1\'e1\'c8\'ed\'c7\'e4\'c7\'ca}{\rtlch \af0 \ltrch \insrsid4735754    \}}{\rtlch \af0\alang3073 \ltrch \insrsid13905472 
+\par }{\rtlch \af0 \ltrch \insrsid4735754 synonym}{\rtlch \af0 \ltrch \insrsid5121549  }{\rtlch \af0 \ltrch \insrsid5121549 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid5121549 OK}{\rtlch \af0 \ltrch 
+\insrsid4735754 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid4735754 {\rtlch \af0 \ltrch \insrsid4735754 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid14686078 {\rtlch \af0 \ltrch \insrsid14686078 Full table scan with large amount of data will take a large time so make index to the columns expected to be in the where statement.
+\par i.e.: the most required columns }{\rtlch \af0 \ltrch \insrsid14686078 {\field{\*\fldinst SYMBOL 224 \\f "Wingdings" \\s 12}{\fldrslt\f10\fs24}}}{\rtlch \af0 \ltrch \insrsid14686078 index}{\rtlch \af0 \ltrch \insrsid15092132                   }{\rtlch 
+\af0 \ltrch \insrsid7886290 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid7886290 {\rtlch \af0 \ltrch \insrsid10309732     }{\rtlch \af0 \ltrch \insrsid8931419 fast the search operation on the data.}{\rtlch \af0 \ltrch \insrsid7886290 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid8931419 {\rtlch \af0 \ltrch \insrsid8931419 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid6318126 {\rtlch \af0 \ltrch \insrsid6318126 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid3414860 {\rtlch \af0 \ltrch \insrsid3414860 
+\par 
+\par }}
